@@ -8,7 +8,6 @@ use crate::{
     piece::Face,
 };
 
-use log::{debug, info};
 use std::{
     sync::{
         atomic::{self, AtomicBool},
